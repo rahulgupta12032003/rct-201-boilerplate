@@ -2,7 +2,8 @@ import { Nav } from "./components/Nav";
 import { CardDetails } from "./components/CardDetails";
 import { Checkout } from "./components/Checkout";
 import { Body } from "./components/Body";
-import {Route , Routes} from "react-router-dom"
+import { Routes, Route } from "react-router-dom";
+import "./styles.css";
 
 function App() {
   return (
